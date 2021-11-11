@@ -24,7 +24,7 @@
     <li>Java</li>
     <li>Spring Boot</li>
     <li>JavaScript</li>
-    <li>ReactJS</li>
+    <li>React</li>
   </ul>
   </p>
 </details>
