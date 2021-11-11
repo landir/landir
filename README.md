@@ -14,7 +14,7 @@
 
 ### Connect with me
 
-<a href="https://twitter.com/landir" target="blank"><img src="https://twitter.com/favicon.ico" height="15" width="15" alt="twitter-icon"/>@landir</a>
+<a href="https://twitter.com/landir" target="blank">@landir</a>
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools&nbsp;</b></summary>
