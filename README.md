@@ -2,9 +2,15 @@
 
 ## Software Developer
 
-* I'm from Brazil :brazil: and since 2003 working on a wide range of open-source technologies.
-* Doing design, development, testing, maintenance and documentation of enterprise information systems.
-* Strong experience programming, leading and coaching. Extensive background in Java, Javascript and Web-based Systems.
+- I'm from Brazil :brazil:
+- Attended Federal University of Mato Grosso do Sul
+  - 2004 Bachelor in System Analysis
+    - Monograph: Fuzzy Systems for Control the Truck Backer-Upper
+  - 2013 Master of Science in Computer Science
+    - Dissertation: Algorithms for Instruction Scheduling and Register Allocation in LLVM Infrastructure.
+- Doing design, development, testing, maintenance and documentation of enterprise information systems.
+- Since 2002 working on a wide range of technologies and mainly Web-based Systems.
+
 
 ### Connect with me
 
@@ -15,9 +21,10 @@
   <br/>
   <p align="left">
   <ul>
-    <li>java</li>
-    <li>javascript</li>
-    <li>linux</li>
+    <li>Java</li>
+    <li>Spring Boot</li>
+    <li>JavaScript</li>
+    <li>ReactJS</li>
   </ul>
   </p>
 </details>
